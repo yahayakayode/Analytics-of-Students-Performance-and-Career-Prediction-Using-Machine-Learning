@@ -1,4 +1,4 @@
-### Analytics of Students Performance and Prediction Using Machine Learning Teachniques
+### Analytics of Students Performance and Career Prediction Using Machine Learning Teachniques
 
 ### Background 
 In today's world, one of the most crucial choices a students must make is selecting a suitable career choice while in school.  
