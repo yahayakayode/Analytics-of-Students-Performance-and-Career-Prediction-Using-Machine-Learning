@@ -8,7 +8,7 @@ Undoubtedly, most students often face the problem of choosing the right career p
 This project focuses on investigating the factors that influence students' academic performance and also builds and train a machine-learning model to make career prediction and recommendation for students based on their academic performance.  
 
 ### Data Dictionary 
-> The dataset used in this research has the following fields and can be found [here](http://roycekimmons.com/tools/generated_data/exams)
+The dataset used in this research has the following fields and can be found [here](http://roycekimmons.com/tools/generated_data/exams)
 - `gender` - male/female
 - `race/ethnicity - one of 5 combinations of race/ethnicity
 - `parent_education_level` -  highest education level of either parent
