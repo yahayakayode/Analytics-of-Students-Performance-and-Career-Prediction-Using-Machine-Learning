@@ -34,10 +34,10 @@ Generally, there are many factors responsible for students’ performances and t
 **NB:** There are other factors that can be considered as well, but they were not captured in the dataset. These factors includes type of facilities in school, methods of teaching, access to internet, peer group, hours of study, home lesson, teacher's qualifications and many more. These factors could have significant impact on student performance.
 
 **Application of Machine Learning Techniques**<br>
-`Random Forest`, `Logistic Regression` and `Support Vector Machines` algorithms were used to predict the possible career students can pursue beased on their performance across the 3 subject, `Logistic Regression` give the best accuracy of `98.5%`, followed by `Support Vector Machine` with `90.5%` and `Random Forest` with the least accuracy of `88.5%`.
+`Random Forest`, `Logistic Regression` and `Support Vector Machines` algorithms were used to predict the possible career students can pursue beased on their performance across the 3 subjects, `Logistic Regression` give the best accuracy of `98.5%`, followed by `Support Vector Machine` with `90.5%` and `Random Forest` with the least accuracy of `88.5%`.
 
 The developed model can take scores for the 3 subjects as imputs, and predict a suitable career path a student should follow based on the student's performance in the 3 subjects.
 
-It is important to note that, the dataset used in this research has its own limitations as only 3 subjects are available with scores which are `math`, `writing` and `reading`. Having more subjects would have help the model to make more career prediction and recommendations based on the available subjects.
+It is important to note that, the dataset used in this research has its own limitations as only 3 subjects were available with scores which are `math`, `writing` and `reading`. Having more subjects would have help the model to make more career prediction and recommendations based on the available subjects.
 
 
